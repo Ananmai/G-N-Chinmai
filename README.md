@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm G N Chinmai</h1>
-<h3 align="center">🚀 Python Full Stack Developer | Frontend Developer | Problem Solver</h3>
+<h3 align="center">🚀 Python Full Stack Developer | Frontd Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Backend+Developer;React+Frontend+Learner;Always+Learning+New+Things" />
@@ -32,12 +32,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananmai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananmai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananmai&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ananmai&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananmai&theme=tokyo-night"/>
 </p>
 
 ---
@@ -61,9 +61,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/g-n-chinmai-06b68a357/">LinkedIn</a> •
 <a href="https://github.com/Ananmai">GitHub</a> •
-<a href="mailto:gnchinmaikinnal@gmail.com">Email</a>
+<a href="gnchinmaikinnal@gmail.com">Email</a>
 </p>
 
 ---
